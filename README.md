@@ -4,7 +4,7 @@ The developers at [Amezmo](https://www.amezmo.com) uses this file as a template 
 
 
 # What's Amezmo?
-Amezmo is a complete hosting platform for PHP applications.
+Amezmo is a cloud hosting platform for PHP applications.
 
 
 # Extensions:
